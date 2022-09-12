@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-16T16:37:44 CST" name="Suite" finished-at="2021-02-16T16:37:44 CST" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2021-02-16T16:37:44 CST" name="Test" finished-at="2021-02-16T16:37:44 CST" duration-ms="135">
+      <class name="rahulshettyacademy.Mavenjavanew.AppiumTest">
+        <test-method signature="AndroidApps()[pri:0, instance:rahulshettyacademy.Mavenjavanew.AppiumTest@77eca502]" started-at="2021-02-16T16:37:44 CST" name="AndroidApps" finished-at="2021-02-16T16:37:44 CST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApps -->
+        <test-method signature="IOSAPPS()[pri:0, instance:rahulshettyacademy.Mavenjavanew.AppiumTest@77eca502]" started-at="2021-02-16T16:37:44 CST" name="IOSAPPS" finished-at="2021-02-16T16:37:44 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAPPS -->
+      </class> <!-- rahulshettyacademy.Mavenjavanew.AppiumTest -->
+      <class name="rahulshettyacademy.Mavenjavanew.RestApiTest">
+        <test-method signature="GetAPIS()[pri:0, instance:rahulshettyacademy.Mavenjavanew.RestApiTest@3246fb96]" started-at="2021-02-16T16:37:44 CST" name="GetAPIS" finished-at="2021-02-16T16:37:44 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAPIS -->
+        <test-method signature="RestApis()[pri:0, instance:rahulshettyacademy.Mavenjavanew.RestApiTest@3246fb96]" started-at="2021-02-16T16:37:44 CST" name="RestApis" finished-at="2021-02-16T16:37:44 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApis -->
+      </class> <!-- rahulshettyacademy.Mavenjavanew.RestApiTest -->
+      <class name="rahulshettyacademy.Mavenjavanew.SeleniumTest">
+        <test-method signature="Selenium()[pri:0, instance:rahulshettyacademy.Mavenjavanew.SeleniumTest@2e222612]" started-at="2021-02-16T16:37:44 CST" name="Selenium" finished-at="2021-02-16T16:37:44 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium -->
+        <test-method signature="Webdriver()[pri:0, instance:rahulshettyacademy.Mavenjavanew.SeleniumTest@2e222612]" started-at="2021-02-16T16:37:44 CST" name="Webdriver" finished-at="2021-02-16T16:37:44 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webdriver -->
+      </class> <!-- rahulshettyacademy.Mavenjavanew.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="93" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="93" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+      <class name="rahulshettyacademy.Mavenjavanew.RestApiTest">
+        <test-method status="PASS" signature="GetAPIS()[pri:0, instance:rahulshettyacademy.Mavenjavanew.RestApiTest@3c0f93f1]" name="GetAPIS" duration-ms="13" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAPIS -->
+        <test-method status="PASS" signature="RestApis()[pri:0, instance:rahulshettyacademy.Mavenjavanew.RestApiTest@3c0f93f1]" name="RestApis" duration-ms="0" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApis -->
+      </class> <!-- rahulshettyacademy.Mavenjavanew.RestApiTest -->
+      <class name="rahulshettyacademy.Mavenjavanew.SeleniumTest">
+        <test-method status="PASS" signature="Selenium()[pri:0, instance:rahulshettyacademy.Mavenjavanew.SeleniumTest@31dc339b]" name="Selenium" duration-ms="1" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium -->
+        <test-method status="PASS" signature="Webdriver()[pri:0, instance:rahulshettyacademy.Mavenjavanew.SeleniumTest@31dc339b]" name="Webdriver" duration-ms="1" started-at="2021-02-17T15:33:10 CST" finished-at="2021-02-17T15:33:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webdriver -->
+      </class> <!-- rahulshettyacademy.Mavenjavanew.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
