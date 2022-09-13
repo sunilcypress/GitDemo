@@ -9,6 +9,8 @@ public class RestApiTest {
 	public void RestApis()
 	{
 		System.out.println("RestAPIS output");
+		System.out.println("Post Jira 1");
+		System.out.println("Post Jira 2");
 	}
 	
 @Test
