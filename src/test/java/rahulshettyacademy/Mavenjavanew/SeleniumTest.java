@@ -9,6 +9,7 @@ public class SeleniumTest {
 	public void Selenium()
 	{
 		System.out.println("Selenium output");
+		System.out.println("Web output");
 	}
 	
 @Test
