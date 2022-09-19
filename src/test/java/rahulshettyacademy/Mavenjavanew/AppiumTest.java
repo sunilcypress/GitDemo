@@ -9,6 +9,8 @@ public class AppiumTest {
 	public void AndroidApps()
 	{
 		System.out.println("AndroidApps output");
+		System.out.println("AndroidApps2 output");
+		System.out.println("AndroidApps3 output");
 	}
 	
 @Test
